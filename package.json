@@ -1,12 +1,21 @@
 {
   "name": "erb-toggle-comment",
   "displayName": "erb-toggle-comment",
-  "description": "",
+  "description": "Toggle comments depending on your selections.",
   "version": "0.1.0",
   "publisher": "aki77",
   "engines": {
     "vscode": "^1.78.0"
   },
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aki77/vscode-erb-toggle-comment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aki77/vscode-erb-toggle-comment/issues"
+  },
+  "license": "MIT",
   "categories": [
     "Other"
   ],
