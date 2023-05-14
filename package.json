@@ -2,15 +2,13 @@
   "name": "erb-toggle-comment",
   "displayName": "erb-toggle-comment",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.1.0",
+  "publisher": "aki77",
   "engines": {
-    "vscode": "^1.70.0"
+    "vscode": "^1.78.0"
   },
   "categories": [
     "Other"
-  ],
-  "activationEvents": [
-    "onCommand:erb-toggle-comment.toggle"
   ],
   "main": "./out/extension.js",
   "contributes": {
